@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning fullstack
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me by email(subikshaar18@gmail.com)
-- ⚡ Fun fact: 
+- ⚡ Fun fact: driving others crazy with humar sense
 
 <!---
 Subi-creator-18/Subi-creator-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
